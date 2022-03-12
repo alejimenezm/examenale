@@ -1,0 +1,14 @@
+body{
+	background-color: cyan; 
+}
+img{
+	border-radius: 10%;
+}
+a {
+  background-color: navy;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: turquoise;
+}
